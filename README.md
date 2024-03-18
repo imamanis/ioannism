@@ -1,2 +1,2 @@
-# ioannism
-EKPA
+# Example of Readme.md
+#EKPA example repository
